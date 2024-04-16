@@ -97,7 +97,7 @@ nav {
 
 #mission-box {
     height: 31.8rem;
-    background-image: url("../Images/mission-background-tea-leaves.jpg");
+    background-image: url("mission-background-tea-leaves.jpg");
     background-size: cover;
     background-position: center;
     opacity: 0.8;
@@ -169,7 +169,7 @@ figcaption {
     height: 22.75rem;
     margin: 0px 2rem;
     text-align: center;
-    background-image: url("../Images/locations-background-solitary-tea-cup.jpg");
+    background-image: url("locations-background-solitary-tea-cup.jpg");
     background-size: cover;
     background-position: center;
     opacity: 0.7;
